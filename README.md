@@ -52,7 +52,7 @@ Feature extraction focused on **behavioral and historical attributes** to captur
 
 ### **3.2 Recursive Feature Elimination (RFE)**
 - Used **XGBoost feature importance** to iteratively drop unimportant variables.
-- Reduced features from **400 to 158** while maintaining performance.
+- Reduced features from **402 to 128** while maintaining performance.
 
 ---
 
